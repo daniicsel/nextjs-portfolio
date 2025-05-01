@@ -16,7 +16,7 @@ const Navbar: React.FC = () => {
         <nav className="py-4">
             <div className="container mx-auto flex flex-col items-center">
                 <Link href="/" className="text-2xl text-white mb-4">
-                    Ethan Quarry
+                    Daniel Eugene
                 </Link>
                 <ul className="flex space-x-6">
                     <li>
